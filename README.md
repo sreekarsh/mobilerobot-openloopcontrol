@@ -91,9 +91,10 @@ if __name__ == '__main__':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+Insert image here:
 
-image.jpg
+![image](https://github.com/sreekarsh/mobilerobot-openloopcontrol/assets/139841918/a27ee682-8917-437a-8a6c-1fe11ee9dbde)
+
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
